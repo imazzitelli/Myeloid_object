@@ -26,6 +26,7 @@ For each tumor:
 - Clusters were identified and visualized via UMAP
 - **Marker genes** were extracted per cluster to annotate major cell types
 
+> 💡 *Example: UMAP of LUAD dataset after integration and clustering.*
 
 <p align="center">
   <img src="figures/LUAD_UMAP.png" width="500">
