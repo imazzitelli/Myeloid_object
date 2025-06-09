@@ -39,7 +39,7 @@ Clusters corresponding to **myeloid populations** were manually identified based
 
 These myeloid subsets were then re-loaded and **integrated across tumors** using `IntegrateLayers()` to generate a cross-tumor reference object for downstream analysis.
 
-> 💡 *Example: UMAP of integrated myeloid cells from all tumors.*
+
 
 <p align="center">
   <img src="figures/Myeloid_UMAP.png" width="500">
